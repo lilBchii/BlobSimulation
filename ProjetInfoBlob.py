@@ -1,5 +1,5 @@
-from random import randint, choices, random
-from numpy import array, zeros
+from random import randint, choices
+from numpy import array
 from matplotlib.pyplot import show, matshow, axis, pause, clf
 from matplotlib.colors import ListedColormap, BoundaryNorm
 from math import exp
